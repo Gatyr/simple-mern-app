@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+	outline: 1px solid black;
+	margin-top: 10px;
+}
